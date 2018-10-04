@@ -1,4 +1,4 @@
-
+package org.test.loiz ;
 public class clbonjour {
 	public  static void main(String[] argv) {
 		try {
