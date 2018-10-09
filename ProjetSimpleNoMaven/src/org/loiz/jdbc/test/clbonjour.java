@@ -1,4 +1,4 @@
-
+package org.loiz.jdbc.test ;
 public class clbonjour {
 	public  static void main(String[] argv) {
 		try {
